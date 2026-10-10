@@ -20,3 +20,5 @@ console.log(LetAssume);
 var swati12 = 90
 console.log(swati12);
 
+//null ==undefined --> true
+//null === undefined --> false
